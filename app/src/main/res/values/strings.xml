@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BiggerNumber</string>
+    <string name="game_name">Number Guessing Game!</string>
+    <string name="description">Guess what number in here!</string>
+    <string name="hint">Enter number in here!</string>
+    <string name="initial_point">Points:0</string>
+</resources>
